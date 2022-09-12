@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- *  main - alphabet
+ * main - Alphabet
  *
- *   Return: Always 0 (success)
+ * Return: Always 0 (success)
  */
 
 int main(void)
