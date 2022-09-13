@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- *  Main - Entry point
+ * Main - Entry point
  *
- *   Return: 0
+ * Return: 0
  */
 int main(void)
 {
@@ -30,5 +30,4 @@ int main(void)
 	}
 	putchar('\n');
 	return (0);
-}
-					
+}					
