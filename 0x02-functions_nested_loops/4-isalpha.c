@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * isalpha - function to find alphabetic character
+ *_isalpha - function to find alphabetic character
  *
  *  Return: always 0
  */
@@ -11,8 +11,8 @@ int _isalpha(int c)
 		for (c = 'A'; c = 'Z', c++)
 		{
 			return (1);
-			else
-				return (0);
 		}
 	}
+			else
+				return (0);
 }
