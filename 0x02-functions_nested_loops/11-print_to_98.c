@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * print_to_98: function to print
+ * print_to_98 - function to print
  * @n: initial count
  * Return: all natural numbers
  */
