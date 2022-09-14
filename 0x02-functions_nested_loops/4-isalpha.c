@@ -1,7 +1,7 @@
 #include "main.h"
 /**
- *_isalpha - function to find alphabetic character
- *
+ * _isalpha - function to find alphabetic character
+ * @c: is the int argument
  *  Return: always 0
  */
 int _isalpha(int c)
