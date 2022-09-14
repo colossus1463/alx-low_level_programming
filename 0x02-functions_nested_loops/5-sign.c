@@ -4,7 +4,7 @@
  * @n: is the int argument
  * Return: always 0
  */
-int print_sign(int n)
+int print_sign(int )
 {
 	if (n > 0)
 	{
@@ -18,7 +18,7 @@ int print_sign(int n)
 	}
 	else
 	{
-		_putchar('0');	
+		_putchar('0');
 		return (0);
 	}
 }
