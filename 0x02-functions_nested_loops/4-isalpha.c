@@ -6,13 +6,10 @@
  */
 int _isalpha(int c)
 {
-	for (c = 'a'; c = 'z', c++)
+	if ((c >= 'a' && c <= 'z') || (c >= 'A' && c <= 'Z'))
 	{
-		for (c = 'A'; c = 'Z', c++)
-		{
-			return (1);
+		return (1);
 		}
-	}
 			else
 				return (0);
 }
