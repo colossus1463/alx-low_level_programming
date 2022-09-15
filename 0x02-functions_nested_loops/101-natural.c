@@ -1,5 +1,5 @@
 #include "main.h"
-
+#include <stdio.h>
 /**
  *  main - Entry point
  *
@@ -21,3 +21,4 @@ int main(void)
 					}
 			printf("%d\n", sum);
 			return (0);
+}
